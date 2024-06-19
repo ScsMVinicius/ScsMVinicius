@@ -1,7 +1,7 @@
 ### Ola!! 👋 Eu sou Marcus Oliveira
 
 
-- 🌱 Estudando Java e POO
+- 🌱 Estudando PHP, JAVA, SQL e POO
   ##
 
 <div>
